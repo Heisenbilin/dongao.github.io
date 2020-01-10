@@ -23,15 +23,6 @@
   src: url('../fonts/方正清刻本悦宋简体.TTF');
 }  
 
-@font-face {
-  font-family:mms;
-  src: url('../fonts/默陌山魂手迹.TTF');
-}
-@font-face {
-  font-family:sw;
-  src: url('../fonts/禹卫书法行书简体.TTF');
-}  
-
 html, body {
   margin: 0;
   padding: 0;
