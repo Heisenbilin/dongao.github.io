@@ -622,17 +622,17 @@ nav {
   .site .site__pics .site__tyj_pic1{   
     left: 0px;   
     top: 0px;
-    width: 400px;
-    height: 300px;
+    width: 360px;
+    height: 270px;
     -webkit-transform: rotate(0deg); 
     -moz-transform: rotate(0deg);   
     transform: rotate(0deg);   
   }   
   .site .site__pics .site__tyj_pic2{   
-    left: 400px;   
+    left: 360px;   
     top: 0%;   
-    width: 400px;
-    height: 300px;
+    width: 360px;
+    height: 270px;
     -webkit-transform: rotate(0deg); 
     -moz-transform: rotate(0deg);   
     transform: rotate(0deg);    
@@ -640,37 +640,37 @@ nav {
 
   .site .site__pics .site__tyj_pic3{   
     left: 0%;   
-    top: 300px;   
-    width: 400px;
-    height: 300px;
+    top: 270px;   
+    width: 360px;
+    height: 270px;
     -webkit-transform: rotate(0deg); 
     -moz-transform: rotate(0deg);   
     transform: rotate(0deg);   
   }
 
   .site .site__pics .site__tyj_pic4{   
-    left: 400px;  
-    top: 300px;   
-    width: 400px;
-    height: 300px;
+    left: 360px;
+    top: 270px;   
+    width: 360px;
+    height: 270px;
     -webkit-transform: rotate(0deg); 
     -moz-transform: rotate(0deg);   
     transform: rotate(0deg);     
   }
   .site .site__pics .site__tyj_pic5{   
     left: 0px;  
-    top: 600px;   
-    width: 400px;
-    height: 300px;
+    top: 540px;   
+    width: 360px;
+    height: 270px;
     -webkit-transform: rotate(0deg); 
     -moz-transform: rotate(0deg);   
     transform: rotate(0deg);     
   }
   .site .site__pics .site__tyj_pic6{   
-    left: 400px;  
-    top: 600px; 
-    width: 400px;
-    height: 300px;
+    left: 360px;
+    top: 540px; 
+    width: 360px;
+    height: 270px;
     -webkit-transform: rotate(0deg); 
     -moz-transform: rotate(0deg);   
     transform: rotate(0deg);   
